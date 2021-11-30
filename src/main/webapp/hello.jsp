@@ -9,5 +9,6 @@
 </head>
 <body>
 	hello git!
+	checkout new branch!
 </body>
 </html>
